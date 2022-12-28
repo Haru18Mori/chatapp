@@ -81,3 +81,5 @@ def talk_room(request, user_id):
     # ...
 ```
 
+ValidationErrorの上にlogger.info("%sという禁止語が入力されました。", ？？？？)とかく
+
